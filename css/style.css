@@ -49,18 +49,8 @@ main, header, section, div {
     gap: 1rem;
 }
 
-div {
-    max-width: 1647px;
-    margin: auto;
-}
-
 figure {
     position: relative;
-}
-
-figure img {
-    width: 400px;
-    height: 266px;
 }
 
 figcaption {
@@ -79,9 +69,4 @@ figcaption {
 
 img {
     object-fit: cover;
-}
-
-.miniature {
-    width: 400px;
-    height: 266px;
 }
